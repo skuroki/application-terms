@@ -1,0 +1,15 @@
+title: アプリケーション プライバシーポリシー
+description: 公開中のアプリケーションのプライバシーポリシー
+lang: ja
+theme: minima
+
+collections:
+  apps:
+    output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - _templates
+  - vendor
