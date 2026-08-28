@@ -14,6 +14,10 @@ permalink: /apps/spider-solitaire-explorer/
 
 また、広告、アクセス解析、トラッキング等を目的として、ユーザーデータを第三者に提供することもありません。
 
+## サポート
+
+[Spider Solitaire Explorer サポート]({{ '/apps/spider-solitaire-explorer/support/' | relative_url }})
+
 ## アプリ内課金について
 
 本アプリでは、Appleが提供するApp Storeのアプリ内課金機能を利用する場合があります。
